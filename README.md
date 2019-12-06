@@ -1,6 +1,7 @@
 # LineSafari
 
 Solution for Codewars problem: Line Safari - Is that a line? - 3 kyu
+
 First solution and refactored solution.
 
 Kata Task
